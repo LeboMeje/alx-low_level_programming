@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 * main - printing numbers from 0-9 with commas and space between them
 * 
@@ -15,17 +16,14 @@ int main(void)
 	for (c = 48; c <= 57; c++)
 
 	{
-
 		putchar(c);
 
 		if (c != 57)
 
 		{
-
 			putchar(',');
 
 			putchar(' ');
-
 		}
 
 	}
