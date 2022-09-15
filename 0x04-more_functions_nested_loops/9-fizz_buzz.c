@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - prints Buzz each numbers of 3 and 5.
- * Return: Always 0.
+ *main - prints Buzz each numbers of 3 and 5.
+ *Return: Always 0.
  */
 int main(void)
 {	
