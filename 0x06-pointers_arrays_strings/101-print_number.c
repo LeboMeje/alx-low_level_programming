@@ -6,10 +6,8 @@
  * Return: no return.
  */
 
-void print_number(int n)
+void print_number(int n);
 {
-	int _putchar(char);
-
 	unsigned int m, d, count;
 
 	if (n < 0)
