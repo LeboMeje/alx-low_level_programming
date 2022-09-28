@@ -5,8 +5,7 @@
  * @n: input integer.
  * Return: no return.
  */
-
-void print_number(int n);
+void print_number(int n)
 {
 	unsigned int m, d, count;
 
