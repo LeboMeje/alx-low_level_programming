@@ -67,9 +67,9 @@ int _checknum(char *argv[], int n)
 	for (ln = 0; argv[n][ln]; ln++)
 	if (!isdigit(argv[n][ln]))
 	{
-	printf("Error\n");
-	exit(98);
-																		}
+		printf("Error\n");
+		exit(98);
+	}
 	return (ln);
 }
 
@@ -85,6 +85,7 @@ int _checknum(char *argv[], int n)
 int main(int argc, char *argv[])
 {
 	int ln1, ln2, lnout, add, addl, i, j, k, ca;
+
 	char *nout;
 
 	if (argc != 3)
