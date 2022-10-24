@@ -1,10 +1,10 @@
-More singly linked lists
+**More singly linked lists**
 
 Project done during Full Stack Software Engineering studies at ALX. It aims to learn about singly linked lists in C language.
 
 
 
-Technologies
+**Technologies**
 
 C files are compiled using gcc 4.8.4
 
@@ -18,7 +18,7 @@ All of the following files are programs written in C:
 
 
 
-Filename	Description
+**Filename	Description**
 
 0-print_listint.c	Prints all the elements of a listint_t list
 
