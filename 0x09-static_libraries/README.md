@@ -1,5 +1,5 @@
 
-# Static Libraries	# Static libraries
+# Static Libraries
 
 Project done during **Full Stack Software Engineering studies** at **ALX SE School**. It aims to learn about static libraries in **C language**.
 
