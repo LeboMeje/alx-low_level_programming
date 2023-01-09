@@ -1,13 +1,19 @@
-0x0A. C - argc, argv
+# Argc, argv
+Project done during **Full Stack Software Engineering studies** at **ALX SE School**. It aims to learn about how to use arguments passed to a program in **C language**.
 
-Write a program that prints its name, followed by a new line.
+## Technologies
+* C files are compiled using `gcc 4.8.4`
+* C files are written according to the C90 standard
+* Tested on Ubuntu 20.04 LTS
 
-Write a program that prints the number of arguments passed into it.
+## Files
+All of the following files are programs written in C:
 
-Write a program that prints all arguments it receives.
-
-Write a program that multiplies two numbers.
-
-Write a program that adds positive numbers.
-
-Write a program that prints the minimum number of coins to make change for an amount of money.
+| Filename | Description |
+| -------- | ----------- |
+| `0-whatsmyname.c` | Prints its name |
+| `1-args.c` | Prints the number of arguments passed into it |
+| `2-args.c` | Prints all arguments it receives |
+| `3-mul.c` | Multiplies two numbers |
+| `4-add.c` | Adds positive numbers |
+| `100-change.c` | Prints the minimum number of coins to make change for an amount of money |
