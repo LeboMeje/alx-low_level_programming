@@ -1,16 +1,20 @@
-0x0B. C - malloc, free
+# Malloc, free
+Project done during **Full Stack Software Engineering studies** at **ALX SE School**. It aims to learn about automatic and dynamic allocation in **C language**.
 
-Write a function that creates an array of chars, and initializes it with a specific char.
+## Technologies
+* C files are compiled using `gcc 4.8.4`
+* C files are written according to the C90 standard
+* Tested on Ubuntu 20.04 LTS
 
-Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
+## Files
+All of the following files are programs written in C:
 
-Write a function that concatenates two strings.
-
-Write a function that returns a pointer to a 2 dimensional array of integers.
-
-Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
-
-Write a function that concatenates all the arguments of your program.
-
-Write a function that splits a string into words.
-
+| Filename | Description |
+| -------- | ----------- |
+| `0-create_array.c` | Creates an array of chars, and initializes it with a specific char |
+| `1-strdup.c` | Returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter |
+| `2-str_concat.c` | Concatenates two strings |
+| `3-alloc_grid.c` | Returns a pointer to a 2 dimensional array of integers |
+| `4-free_grid.c` | Frees a 2 dimensional grid previously allocated in the heap memory |
+| `5-argstostr.c` | Concatenates all the arguments of a program |
+| `100-strtow.c` | Splits a string into words |
